@@ -1,6 +1,0 @@
-git clone git@example.com:example/test.git # Клонируем репозиторий
-cd ./test # Переходим в корневую папку
-echo ### May be in future > Readme.md # Создаем файл Readme.md c текстом ### May be in future
-git add Readme.md # Добавляем файл Readme.md  в индекс
-git commit -m "add Readme.md" # Комментируем изменения в проекте
-git push # Отправляем на удаленный репозиторий

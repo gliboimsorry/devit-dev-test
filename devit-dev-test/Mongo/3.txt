@@ -1,9 +1,0 @@
-# Добавьте новую запись в коллекцию posts
-db.properties.insertOne({
-    "_id":"11",
-    "title":"devit",
-    "content":"the best",
-    "author":"glibo",
-    "like":"10000",
-    "dislike":"0",
-     })

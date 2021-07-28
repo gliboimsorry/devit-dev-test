@@ -1,5 +1,0 @@
-# Сделайте символическую ссылку на файл access.log в папке html.
-
-cd /var/logs # Переходим в папку logs                            
-ln -s access.log access.lnk # Создаем символическую ссылку            
-mv access.lnk ../www/html # Переносим символическую ссылку в папку html        
